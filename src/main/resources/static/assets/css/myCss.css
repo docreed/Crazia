@@ -1,0 +1,21 @@
+/* footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+} */
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+html body {
+  margin-bottom: 120px;
+}
+html #footer {
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  height: 120px;
+  background-color: #1c1c1c;
+}
