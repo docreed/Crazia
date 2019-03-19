@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.docreed</groupId>
+  <artifactId>Crazia</artifactId>
+  <version>0.0.1</version>
+  <name>docreed/Crazia</name>
+  <url>https://github.com/docreed/Crazia</url>
+  <inceptionYear>2019</inceptionYear>
+  <developers>
+    <developer>
+      <id>docreed</id>
+      <name></name>
+      <email></email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git://github.com/docreed/Crazia.git</connection>
+    <developerConnection>scm:git://github.com/docreed/Crazia.git</developerConnection>
+    <url>git://github.com/docreed/Crazia.git</url>
+  </scm>
+</project>
